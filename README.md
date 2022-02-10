@@ -1,2 +1,2 @@
 
-tripta-swiggy.netlify.app
+https://tripta-swiggy.netlify.app/
